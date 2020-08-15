@@ -1,5 +1,5 @@
-# Skillside-Theme
-Chillout theme for discord. Dark mode is required. Made by Wonderland owners
+# Wonderland-Theme
+Chillout theme for discord. Dark mode is required. Made by Skillside.ru owners
 
 ## Instalation: 
 
@@ -11,4 +11,4 @@ Chillout theme for discord. Dark mode is required. Made by Wonderland owners
 
 
 
-@ Made by Skillside owners, [m4prof](https://github.com/m4prof)
+@ Made by Skillside.ru owners, [m4prof](https://github.com/m4prof)
